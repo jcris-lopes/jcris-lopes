@@ -1,3 +1,3 @@
-### Olá! Eu sou a Jéssica Lopes
+### Olá! Eu sou a Jcris-Lopes
 
-- 🌱 I'm currently learning HTML and CSS.
+- 🌱 Atualmente estou aprendendo HTML e CSS.
